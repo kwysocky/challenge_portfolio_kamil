@@ -25,10 +25,8 @@ Jest intuicyjna, widoczny na środku strony głównej link umożliwiający dodan
 
 ### **Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku.**
 
--Można wpisać dowolny rok urodzenia, mieć nawet 2000 lat :)
--Przy wadze brak informacji o jednostkach - np. kg czy funty
--W tabeli mecze data się zwija 
--Można wpisać ujemną wagę i wzrost zawodnika
--Numer telefonu może mieć nieskończoną liczbę znaków
--Gdy dodaje się gracza bez podania "@" w nazwie maila, wskakuje błąd, ale nie ma wskazania co to za błąd ani w którym miejscu
+[bledy subtask 4.docx](https://github.com/kwysocky/challenge_portfolio_kamil/files/9894586/bledy.subtask.4.docx)
+
+
+
 
